@@ -1,0 +1,9 @@
+fpdf @ file:///home/conda/feedstock_root/build_artifacts/fpdf_1606859403225/work
+lifelines @ file:///home/conda/feedstock_root/build_artifacts/lifelines_1694622406405/work
+matplotlib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-_3usbnl1/matplotlib-suite_1647506475477/work
+nibabel @ file:///Users/runner/miniforge3/conda-bld/nibabel_1696013104880/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1687808433287/work
+pandas==1.5.3
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1695283037018/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1683900453702/work/base/dist/scipy-1.10.1-cp38-cp38-macosx_11_0_arm64.whl#sha256=06d649e33fd400c8608c1083a7bb6f490989227277eae7f65577d925d87848e8
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1696262444380/work
